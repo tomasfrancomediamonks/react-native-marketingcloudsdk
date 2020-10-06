@@ -34,7 +34,7 @@
     }
   },
   "peerDependencies": {
-    "react-native": ">=0.60"
+    "react-native": ">=0.59"
   },
   "devDependencies": {
     "clang-format": "^1.2.4",
